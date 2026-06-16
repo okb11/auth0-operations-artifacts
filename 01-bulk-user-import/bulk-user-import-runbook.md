@@ -69,3 +69,9 @@ Tenant Domain:
 Environment:
 Reviewer:
 Date:
+
+Database Connection Name: OliversDatabase
+Database Connection ID: con_C6UtinqnbkcQUxt5
+Applications Enabled: NO
+Password Policy: Password Active
+Signups Enabled: Yes
