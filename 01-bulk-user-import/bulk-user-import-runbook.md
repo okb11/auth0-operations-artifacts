@@ -41,8 +41,8 @@ Before starting, collect the following:
 |---|---:|---|
 | Auth0 tenant domain | Yes | Example: `example.us.auth0.com` |
 | Environment | Yes | Dev, Test, Stage, or Prod |
-| Target database connection name | Yes | Example: `Username-Password-Authentication` |
-| Target database connection ID | Yes | Required for API-based import |
+| Target database connection name | Yes | OliversDatabase |
+| Target database connection ID | Yes | con_C6UtinqnbkcQUxt5 |
 | Source user export | Yes | Must be approved for use |
 | Source user count | Yes | Used for reconciliation |
 | Field mapping | Yes | Source fields mapped to Auth0 fields |
