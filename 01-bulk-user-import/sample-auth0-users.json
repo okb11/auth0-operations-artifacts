@@ -1,0 +1,17 @@
+[
+  {
+    "email": "test.user1@example.com",
+    "email_verified": true,
+    "given_name": "Test",
+    "family_name": "User1",
+    "name": "Test User1",
+    "user_metadata": {
+      "source_system": "legacy-idp"
+    },
+    "app_metadata": {
+      "employee_id": "12345",
+      "department": "Security",
+      "migration_batch": "batch-001"
+    }
+  }
+]
